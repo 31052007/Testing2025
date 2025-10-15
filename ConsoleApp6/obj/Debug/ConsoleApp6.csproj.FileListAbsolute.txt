@@ -1,0 +1,21 @@
+C:\Users\Николай Охлоповский\OneDrive\Рабочий стол\С#\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\Николай Охлоповский\OneDrive\Рабочий стол\С#\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\Николай Охлоповский\OneDrive\Рабочий стол\С#\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\Николай Охлоповский\OneDrive\Рабочий стол\С#\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\Николай Охлоповский\OneDrive\Рабочий стол\С#\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\Николай Охлоповский\OneDrive\Рабочий стол\С#\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\Николай Охлоповский\OneDrive\Рабочий стол\С#\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+C:\Users\kab-35-17\Desktop\Coursework-2025-17.05.2025-.-\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\kab-35-17\Desktop\Coursework-2025-17.05.2025-.-\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\kab-35-17\Desktop\Coursework-2025-17.05.2025-.-\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\kab-35-17\Desktop\Coursework-2025-17.05.2025-.-\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\kab-35-17\Desktop\Coursework-2025-17.05.2025-.-\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\kab-35-17\Desktop\Coursework-2025-17.05.2025-.-\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\kab-35-17\Desktop\Coursework-2025-17.05.2025-.-\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+C:\Users\Kab-35-16\Desktop\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\Kab-35-16\Desktop\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\Kab-35-16\Desktop\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\Kab-35-16\Desktop\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\Kab-35-16\Desktop\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-16\Desktop\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\Kab-35-16\Desktop\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
